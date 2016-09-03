@@ -28,6 +28,6 @@ int main()
         cin>>ch;
     }while(ch=='y');
 
-    cout<<endl;
+    cout<<endl<<"hope you guys will like this";
     return 0;
 }
