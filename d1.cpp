@@ -4,5 +4,7 @@ int main()
 {
 	cout<<"Hi this is first ds file";
 	cout <<"Ok Deepak I got this one";
-	return 0;
+
+	cout<<"lekin koi fayda nhi";
+		return 0;
 }
